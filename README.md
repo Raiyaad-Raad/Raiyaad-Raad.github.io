@@ -8,4 +8,5 @@
 
 **This is my personal portfoilo**
 
-# **Please Consider That This IS Still In Development Process So The Code MAY or MAY NOT be Stable**
+## Code Understanding:
+- **Please refer to mozila html documentation for understanding everything and make sure to learn basic. this is M.I.T Licensed**
