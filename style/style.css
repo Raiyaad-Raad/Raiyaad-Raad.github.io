@@ -85,11 +85,12 @@ nav ul li a:hover::after{
     text-align: center;
 }
 .container-text h1{
-    font-size: 60px;
+    font-size: 35px;
     margin-top: 20px; 
 }
 .container-text h1 span{
-    color: rgb(62, 200, 255);
+    color: rgb(0, 183, 255);
+    font-family: "Lobster", "sans-serif";
 }
 
 
@@ -272,6 +273,24 @@ footer {
 footer i {
     color: #ff004f
 }
+#popup {
+    position: absolute;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+
+
 @media only screen and (max-width: 600px){
     .container-text{
         margin-top: 50%;
